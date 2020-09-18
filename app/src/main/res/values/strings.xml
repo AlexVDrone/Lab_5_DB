@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab_5_DB</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="save">Save</string>
+    <string name="get_value">Get Value</string>
+    <string name="file">File</string>
+</resources>
